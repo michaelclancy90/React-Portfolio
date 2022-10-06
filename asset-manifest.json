@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.a102879e.css",
+    "main.js": "/React-Portfolio/static/js/main.94825c0b.js",
+    "static/js/787.0e6c9168.chunk.js": "/React-Portfolio/static/js/787.0e6c9168.chunk.js",
+    "static/media/slack-overflow.png": "/React-Portfolio/static/media/slack-overflow.0e0d521dbe9329b2d89e.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.a102879e.css.map": "/React-Portfolio/static/css/main.a102879e.css.map",
+    "main.94825c0b.js.map": "/React-Portfolio/static/js/main.94825c0b.js.map",
+    "787.0e6c9168.chunk.js.map": "/React-Portfolio/static/js/787.0e6c9168.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.94825c0b.js"
+  ]
+}
